@@ -1,0 +1,2 @@
+C:\Users\yule2\Documents\Псв\Sources\Task01\Task1_GL20\BUILD\vs2010\Debug\vs2010.exe
+C:\Users\yule2\Documents\Псв\Sources\Task01\Task1_GL20\BUILD\vs2010\Debug\vs2010.pdb
